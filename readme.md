@@ -1,4 +1,4 @@
-# rmkbbot
+# tpdnebot
 
 Telegram bot for generate endless fake faces via thispersondoesnotexist.com. Each time you press the button, the network will generate a new facial image from scratch!
 
