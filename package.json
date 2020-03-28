@@ -1,0 +1,19 @@
+{
+  "name": "tpdnebot",
+  "version": "1.0.0",
+  "description": "Telegram bot for generate endless fake faces via thispersondoesnotexist.com",
+  "main": "app.js",
+  "scripts": {
+    "watch": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": "https://github.com/LetItCode/tpdnebot",
+  "author": "Josh Dies",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "telegraf": "^3.36.0",
+    "telegraf-i18n": "^6.6.0"
+  }
+}

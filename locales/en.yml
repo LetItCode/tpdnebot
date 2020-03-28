@@ -1,0 +1,4 @@
+buttons:
+  generate: ✨Generate
+greeting: Telegram bot for generate endless fake faces via thispersondoesnotexist.com. Each time you press the button, the network will generate a new facial image from scratch!
+donate: 'Here you are! You can send a BTC tip to: <code>1JosHdiEs32PfTAbbaVpuFXq3pG5bR5yBb</code>'
